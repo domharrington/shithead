@@ -18,13 +18,13 @@ Nothing.
 ### 7
 The next player has to go lower than a 7 for the next turn. Then play continues as normal.
 
-### 8
+### 8
 Skips the next person in the circle. Multiple 8s skip multiple people.
 
 ### 9
 Nothing.
 
-### 10
+### 10
 Burns the deck. Discard all cards in the middle and you get another go.
 
 ### J
@@ -33,8 +33,8 @@ Nothing.
 ### Q
 Nothing.
 
-### K
+### K
 Nothing.
 
-### A
+### A
 Nothing.
